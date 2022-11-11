@@ -42,7 +42,7 @@ FILE_PERMISSION="400"
 FILE1="chain.pem"
 FILE2="crt.pem"
 FILE3="key.pem"
-CREDENTIALS="/home/ncadmin/.credentials"
+CREDENTIALS="/home/admin/.credentials"
 
 #======================================
 
