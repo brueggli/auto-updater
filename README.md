@@ -1,6 +1,6 @@
 # Auto-Updater
 
-Auto-Updater is a Bash-Script who using SMB to get Files that need constantly Updated like Let's Encrypt Certificates who whose expires after 3 Months.
+Auto-Updater is a Bash-Script who using SMB to get Files that need constantly Updated like Let's Encrypt Certificates who expires after 3 Months.
 
 
 ## Download
